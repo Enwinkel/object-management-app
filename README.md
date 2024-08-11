@@ -15,7 +15,7 @@ It follows a clean architecture with MVVM pattern and utilizes Jetpack Compose f
 ## Architecture
 The application follows the **Clean Architecture** with the **MVVM (Model-View-ViewModel)** pattern:
 - **Data Layer**: Manages data operations using Room for database interactions.
-- **Domain Layer**: Contains business logic. Dute to the small size of the project domain layer logic is located in ViewModels.
+- **Domain Layer**: Contains business logic. Due to the small size of the project domain layer logic is located in ViewModels.
 - **Presentation Layer**: Handles UI logic and user interactions using Jetpack Compose.
 
 ## Features
